@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">627444331244-fjjbkgc4n24622brr84g5m41vo0pd43m.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://nathra3ama-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">627444331244</string>
+    <string name="google_api_key" translatable="false">AIzaSyDVCCmMp5pHEBSBpU489cAFjSNl0Fy5fPA</string>
+    <string name="google_app_id" translatable="false">1:627444331244:android:01ca21781971e920c62bc9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDVCCmMp5pHEBSBpU489cAFjSNl0Fy5fPA</string>
+    <string name="google_storage_bucket" translatable="false">nathra3ama.appspot.com</string>
+    <string name="project_id" translatable="false">nathra3ama</string>
+</resources>

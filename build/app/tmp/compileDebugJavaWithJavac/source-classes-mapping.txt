@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/biblesocietyegypt/nazra3amma/BuildConfig.java
+ com.biblesocietyegypt.nazra3amma.BuildConfig
